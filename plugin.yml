@@ -2,6 +2,6 @@ name: ProtocolSupport
 description: Support multiple protocols easily
 main: ProtocolSupport\ProtocolSupport
 author: GiantQuartz
-api: 3.0.0
+api: 5.0.16
 load: STARTUP
-version: 1.0.0
+version: 2.0.0
